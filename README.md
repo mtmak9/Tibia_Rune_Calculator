@@ -2,7 +2,7 @@
 This is calculator for game: TIBIA, is calculating profit from Rune Making by magic professions like: Druid/Sorcerer, and display costs/profit/amount from Rune Maker.
 
 ## What this app looks like:
-[!alt_text](https://github.com/mtmak9/Tibia_Rune_Calculator/blob/Projects/TibiaRunes_screen.png)
+![alt_text](https://github.com/mtmak9/Tibia_Rune_Calculator/blob/Projects/TibiaRunes_screen.png)
 
 ## Features
 - Calculate Qty of Runes character will make
